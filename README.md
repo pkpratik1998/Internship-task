@@ -21,12 +21,13 @@ For Displayer sign up you have to collect-
 3) Country of Origin
 4) Technology name 
  <br />
- # Tech-Stack :
-  ## PHP
-  ## HTML
-  ## MYSQL
-  ## CSS & BOOTSTRAP
-  ## XAMPP
+ 
+# Tech-Stack :
+## PHP
+## HTML
+## MYSQL
+## CSS & BOOTSTRAP
+## XAMPP
   
  # ScreenShots
  
