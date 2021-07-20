@@ -44,3 +44,4 @@ For Displayer sign up you have to collect-
 ![IMG9](/screenshots/9.png)
 ![IMG10](/screenshots/10.png)
 ![IMG11](/screenshots/11.png)
+![IMG11](/screenshots/12.png)
