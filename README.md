@@ -29,7 +29,9 @@ For Displayer sign up you have to collect-
 ## CSS & BOOTSTRAP
 ## XAMPP
   
- # ScreenShots
+  <br>
+  
+ # ScreenShots :
  
 ![IMG1](/screenshots/1.png)
 ![IMG2](/screenshots/2.png)
